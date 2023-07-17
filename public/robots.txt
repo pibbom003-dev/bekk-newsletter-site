@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bekk.com.br/sitemap.xml
